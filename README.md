@@ -10,7 +10,7 @@ Currently diving into the world of **Web3** to explore the decentralized future 
 - 💞️ I’m looking to collaborate on projects related to Web3, frontend development, or anything exciting in the tech space!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ri-anpratama) | [Email](mailto:rian8pratama@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my coding journey by building earthquake monitoring dashboards—and now I’m exploring the blockchain!
+- ⚡ Fun fact: I started my coding journey by building earthquake monitoring dashboards and now I’m exploring the AI!
 
 ---
 
